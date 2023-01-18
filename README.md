@@ -2,6 +2,9 @@
 
 This is a solution to the [Profile card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/profile-card-component-cfArpWshJ).
 
+![CARD-SCREENSHOT](https://user-images.githubusercontent.com/115659343/213038864-f366c4d6-9266-49b4-aaf7-def90d0b516c.png)
+
+
 ## Overview
 
 This chalange consist in a profile card, where contains a bio and some social media status.

@@ -28,7 +28,7 @@ This is my first project, so first, I draw a scheme using the provide material a
 
 By being my first project by myself, i revisit my personal notes many times especially the flexbox ones, because i had some struggle with arrangement of the elements at the screen.
 
-The processo of build a proper READ.ME i had to take back to notes.
+The process of build a proper READ.ME i had to take back to notes.
 
 ## Author
 
